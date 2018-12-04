@@ -16,7 +16,7 @@ sudo apt-get install -y wget git
 #### Instalação
 
 ```
-git cone https://github.com/robertvilvert/sped-contabil.git
+git clone https://github.com/robertvilvert/sped-contabil.git
 cd sped-contabil
 ./install.sh
 
