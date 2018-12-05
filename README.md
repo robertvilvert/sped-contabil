@@ -9,7 +9,11 @@
 #### Pré requisitos
 
 * Procure e abra o terminal
+
+
 ![](https://github.com/robertvilvert/sped-contabil/blob/master/images/find_terminal.jpeg)
+
+
 
 * Entre com o comando abaixo no terminal:
 
